@@ -38,14 +38,19 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 
 <b> The Resource Group is Created successfully</b>
 
-<p> Now Click on Virtual Machines. If You Do Not See It At The Top Type It In The Bar Above</p>
+<p> Now Click on Virtual Machines. If you do not see It at the top type It In the bar above</p>
 
 <img src="https://i.imgur.com/xL1DRc5.png">
-
 
 <b> Click Azure Virtual Machine </b>
 
 <img src="https://i.imgur.com/NhP73RP.png">
+
+- Click the resource group we just created
+- Name the Virtual Machine
+- Select the region (should be the same as the resource group)
+- Select Windows 10 under Image
+- Choose Standard size
 
 <img src="https://i.imgur.com/dCdqLvl.png">
 <img src="https://i.imgur.com/LWfS961.png">
@@ -70,3 +75,5 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 
 <img src="https://i.imgur.com/63QtNtj.png">
 <img src="https://i.imgur.com/G5Rd7kJ.png">
+
+The End.
