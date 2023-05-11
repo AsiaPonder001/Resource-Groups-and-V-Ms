@@ -16,3 +16,10 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 
 - Windows Server 2022
 - Windows 10 (21H2)
+<br/>
+
+<h1> Go to the Azure Portal</h1>
+
+<p> Click Resource Group </p>
+
+<img src=" .png">
