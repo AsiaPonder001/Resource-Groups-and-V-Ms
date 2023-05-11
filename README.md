@@ -38,4 +38,4 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 
 <b> The Resource Group is Created</b>
 
-
+<img src="https://i.imgur.com/xL1DRc5.png">
