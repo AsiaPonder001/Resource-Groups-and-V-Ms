@@ -55,9 +55,9 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 <img src="https://i.imgur.com/dCdqLvl.png">
 <img src="https://i.imgur.com/LWfS961.png">
 
-<p> Pick a *USERNAME* and *PASSWORD* </p>
+<b> Pick a username and password </b>
 
-Click Review+Create at the bottom (generally don't need to select any of the other tabs; possibly the Networking tab however you should be able to successfully create the VM)
+<p>Click Review+Create at the bottom (generally don't need to select any of the other tabs; possibly the Networking tab however you should be able to successfully create the VM) </p>
 
 <img src="https://i.imgur.com/aOgot3Z.png">
 <img src="https://i.imgur.com/VygfVOP.png">
