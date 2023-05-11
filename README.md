@@ -80,6 +80,7 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 <img src="https://i.imgur.com/s59AcEf.png">
 
 <b> Click Create</b>
+
 <img src="https://i.imgur.com/bW3yEsO.png">
 
 <img src="https://i.imgur.com/uH5X8d0.png">
