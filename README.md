@@ -51,3 +51,12 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 <img src="https://i.imgur.com/LWfS961.png">
 <img src="https://i.imgur.com/aOgot3Z.png">
 <img src="https://i.imgur.com/VygfVOP.png">
+<img src="https://i.imgur.com/9Xorpyy.png">
+
+<b>Create Another VM</b>
+<p> This time it will be a Domain Controller (Windows server 2022) </p>
+
+<img src="https://i.imgur.com/x80cYg2.png">
+<img src="https://i.imgur.com/s59AcEf.png">
+<img src="https://i.imgur.com/bW3yEsO.png">
+
