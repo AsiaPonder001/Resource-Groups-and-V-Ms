@@ -41,3 +41,10 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 <p> Now Click on Virtual Machines. If You Do Not See It At The Top Type It In The Bar Above</p>
 
 <img src="https://i.imgur.com/xL1DRc5.png">
+
+
+<b> Click Azure Virtual Machine </b>
+
+<img src="https://i.imgur.com/NhP73RP.png">
+
+
