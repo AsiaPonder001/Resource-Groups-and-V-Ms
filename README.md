@@ -20,6 +20,6 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 
 <h1> Go to the Azure Portal</h1>
 
-<p> Click Resource Group </p>
+<b> Click Resource Groups </b>
 
 <img src="https://i.imgur.com/NrGgVuJ.png">
