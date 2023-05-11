@@ -71,6 +71,7 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 - Same location
 - Name the VM
 - Select Windows Server 2022
+- Choose Standard Size
 
 <img src="https://i.imgur.com/x80cYg2.png">
 
