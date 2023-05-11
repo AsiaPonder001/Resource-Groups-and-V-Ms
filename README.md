@@ -60,6 +60,7 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 <p>Click Review+Create at the bottom (generally don't need to select any of the other tabs; possibly the Networking tab however you should be able to successfully create the VM) </p>
 
 <img src="https://i.imgur.com/aOgot3Z.png">
+<b> Click Create</b>
 <img src="https://i.imgur.com/VygfVOP.png">
 <img src="https://i.imgur.com/9Xorpyy.png">
 
