@@ -73,6 +73,9 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 - Select Windows Server 2022
 
 <img src="https://i.imgur.com/x80cYg2.png">
+
+<b> Pick a username and password</b>
+
 <img src="https://i.imgur.com/s59AcEf.png">
 <img src="https://i.imgur.com/bW3yEsO.png">
 
