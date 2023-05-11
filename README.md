@@ -32,7 +32,7 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 
 <img src="https://i.imgur.com/fLHYXfd.png">
 
-<b> Once it Passes Validation then Click Create </b>
+<b> Once it Passes Validation, Click Create </b>
 
 <img src="https://i.imgur.com/6deTcDx.png">
 
