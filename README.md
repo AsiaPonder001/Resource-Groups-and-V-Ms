@@ -23,3 +23,11 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 <b> Click Resource Groups </b>
 
 <img src="https://i.imgur.com/NrGgVuJ.png">
+
+<b> Click Create </b>
+
+<img src="https://i.imgur.com/UJTuszX.png">
+
+<b> Name Resource Group and Select a Region</b>
+
+<img src="https://i.imgur.com/fLHYXfd.png">
