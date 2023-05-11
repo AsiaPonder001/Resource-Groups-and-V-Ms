@@ -31,3 +31,11 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 <b> Name Resource Group and Select a Region</b>
 
 <img src="https://i.imgur.com/fLHYXfd.png">
+
+<> Once it Passes Validation then Click Create <>
+
+<img src="https://i.imgur.com/6deTcDx.png">
+
+<b> The Resource Group is Created</b>
+
+
