@@ -36,7 +36,7 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 
 <img src="https://i.imgur.com/6deTcDx.png">
 
-<b> The Resource Group is Created</b>
+<b> The Resource Group is Created successfully</b>
 
 <p> Now Click on Virtual Machines if you cannot see it at the top type it in the bar above</p>
 
