@@ -18,7 +18,7 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 - Windows 10 (21H2)
 <br/>
 
-<h1> Go to the Azure Portal</h1>
+<h1> Create a Resource Group</h1>
 
 <b> Click Resource Groups </b>
 
