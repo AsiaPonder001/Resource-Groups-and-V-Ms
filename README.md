@@ -22,4 +22,4 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 
 <p> Click Resource Group </p>
 
-<img src=" .png">
+<img src="https://i.imgur.com/NrGgVuJ.png">
