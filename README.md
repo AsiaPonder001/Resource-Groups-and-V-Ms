@@ -88,10 +88,15 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 
 <h1>Log Into Your VMs Using Remote Desktop</h1>
 
+<p> Log into the DC</p>
+
 <img src="https://i.imgur.com/9xZm757.png">
 <img src="https://i.imgur.com/pQ75TNI.png">
 
 <img src="https://i.imgur.com/63QtNtj.png">
+
+<b> Do the same and log into the Client </b>
+
 <img src="https://i.imgur.com/G5Rd7kJ.png">
 
 The End.
