@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/XxHQRRA.png">
+  <img src="https://i.imgur.com/wWBmJ7Q.png">
 
   
 <h1> Creating Resource Groups and Deploying Virtual Machines</h1>
