@@ -50,3 +50,4 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 <img src="https://i.imgur.com/dCdqLvl.png">
 <img src="https://i.imgur.com/LWfS961.png">
 <img src="https://i.imgur.com/aOgot3Z.png">
+<img src="https://i.imgur.com/VygfVOP.png">
