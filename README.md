@@ -16,6 +16,7 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 
 - Windows Server 2022
 - Windows 10 (21H2)
+- Ubuntu Server 22.04 LTS
 <br/>
 
 <h1> Create a Resource Group</h1>
@@ -65,7 +66,7 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 <img src="https://i.imgur.com/9Xorpyy.png">
 
 <b>Create Another VM</b>
-<p> This time it will be a Domain Controller (Windows server 2022) </p>
+<p> This VM will be a Domain Controller (Windows server 2022) </p>
 
 - Same Resource Group
 - Same location
@@ -85,6 +86,24 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 
 <img src="https://i.imgur.com/uH5X8d0.png">
 
+<b> Create a Linux VM (Ubuntu server)</b>
+
+- Same Resource Group
+- Same Location
+- Name the VM
+- Select Ubuntu server
+- Choose Standard size
+
+<img src="https://i.imgur.com/DozTvLb.png">
+
+<b> Pick a username and password </b>
+
+<p> Make sure to click password NOT SSH public key</p>
+
+<img src="https://i.imgur.com/bqKmgbN.png">
+
+<b> Click Create </b>
+<img src="https://imgur.com/pQQLOD5.png">
 
 <h1>Log Into Your VMs Using Remote Desktop</h1>
 
