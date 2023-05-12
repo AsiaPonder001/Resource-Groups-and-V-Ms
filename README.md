@@ -84,8 +84,6 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 
 <img src="https://i.imgur.com/bW3yEsO.png">
 
-<img src="https://i.imgur.com/uH5X8d0.png">
-
 <b> Create a Linux VM (Ubuntu server)</b>
 
 - Same Resource Group
@@ -103,7 +101,10 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 <img src="https://i.imgur.com/bqKmgbN.png">
 
 <b> Click Create </b>
+
 <img src="https://imgur.com/pQQLOD5.png">
+
+
 
 <h1>Log Into Your VMs Using Remote Desktop</h1>
 
