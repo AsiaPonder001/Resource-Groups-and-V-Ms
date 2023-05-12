@@ -99,4 +99,4 @@ Hello! In this quick tutorial I will be creating a Resource Group in Azure and D
 
 <img src="https://i.imgur.com/G5Rd7kJ.png">
 
-The End.
+<b>The End </b>
